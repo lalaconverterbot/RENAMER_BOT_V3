@@ -4,7 +4,7 @@ Supports 4GB Files
 
 ## Join Railway
 
-<a href="https://railway.app?referralCode=RFr_Ev">Join To Railway</a>
+<a href="https://render.com?referralCode=RFr_Ev">Join To Render</a>
 
 ## Configs 
 
@@ -46,7 +46,7 @@ Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 
 ### 💜 Railway -Simple Way
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/4x-y8J?referralCode=RFr_Ev)
+[![Deploy on Render](https://render.com)](https://render.com/new/template/4x-y8J?referralCode=RFr_Ev)
 ### 💜 Heroku - simplest way
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/lntechnical2/RENAMER_BOT_V3)
